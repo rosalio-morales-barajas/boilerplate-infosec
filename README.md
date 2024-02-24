@@ -5,3 +5,4 @@ This is the boilerplate for the Information Security lessons. Instructions for c
 # infosec
 # infosec
 # sudoku_solver
+# sudoku_solver
