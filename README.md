@@ -8,3 +8,4 @@ This is the boilerplate for the Information Security lessons. Instructions for c
 # sudoku_solver
 # boilerplate-infosec
 # boilerplate-infosec
+# boilerplate-infosec
